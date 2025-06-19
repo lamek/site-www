@@ -1,0 +1,9 @@
+{
+  "tags": ["get-started-tutorial", "practiceConcepts"],
+  "permalink": "/get-started/practice/{{ page.fileSlug }}/",
+  "sitemap": false,
+  "noindex": true,
+  "show_breadcrumbs": true,
+  "toc": true,
+  "body_class": "tutorial"
+}

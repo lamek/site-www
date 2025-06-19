@@ -30,3 +30,7 @@ follow the instructions on how to [Get the Dart SDK][].
 6. [Error handling in Dart](/get-started/error-handling)
 7. [Advanced Object Oriented Programming](/get-started/advanced-oop)
 8. [Command Runner Polish](/get-started/command-runner-polish)
+
+## Supplementary Practice Concepts {: #practice-concepts }
+
+* [Practice Basic Programming Concepts](/get-started/practice-index/)
